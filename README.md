@@ -1,6 +1,6 @@
 # deep-learning-box
 
-These are parts of a deep learning box with their cost in SAR I assembled in 2019 (photo included):
+These are parts of a deep learning box with their costs in SAR I assembled in 2019 for our research group at KACST (photo included). You can buy them from Newegg or Amazon.
 
 No. | Item | Description                         | Unit Price | Qty
 --- | ---  | --- | --- | ---
