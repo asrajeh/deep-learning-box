@@ -13,3 +13,6 @@ No. | Item | Description                         | Unit Price | Qty
 7   | HD   | WD Purple 8TB Internal Hard Drive 7200 RPM | 991 | 1
 8   | PSU  | EVGA SuperNOVA 1600 G2 120-G2-1600-X1 | 1613 | 1
 9   | COOL | Corsair Hydro Series H100i PRO Low Noise | 561 | 1
+10  | PASTE | Arctic Silver 5 High-Density Thermal Compound | 44 | 1
+
+Note that you do not need item 10 (paste) if you bought item 9.
