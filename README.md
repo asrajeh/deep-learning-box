@@ -16,3 +16,4 @@ No. | Item | Description                         | Unit Price | Qty
 10  | PASTE | Arctic Silver 5 High-Density Thermal Compound | 44 | 1
 
 Note that you do not need item 10 (paste) if you bought item 9.
+![alt text](https://raw.githubusercontent.com/asrajeh/deep-learning-box/main/deep-learning-box.JPG)
